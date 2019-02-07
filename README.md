@@ -8,7 +8,7 @@ example input file: title2PMID_input.csv
 
 usage:
 On terminal go to folder containing .py file then run:
- >python3 title2PMID.py input_filename.csv output_filename.csv
+ `$ python3 title2PMID.py input_filename.csv output_filename.csv`
 
 requirements (installation order):
 1. python3
@@ -16,8 +16,8 @@ requirements (installation order):
 3. selenium for python
 
 For a mac os which already has anaconda (python3) and homebrew (like mine), just run these on your terminal window:
- >brew tap homebrew/cask
- 
- >brew cask install chromedriver
- 
- >conda install -c conda-forge selenium
+ ```
+ brew tap homebrew/cask
+ brew cask install chromedriver
+ conda install -c conda-forge selenium
+```
