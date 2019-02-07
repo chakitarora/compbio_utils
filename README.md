@@ -17,5 +17,7 @@ requirements (installation order):
 
 For a mac os which already has anaconda (python3) and homebrew (like mine), just run these on your terminal window:
  >brew tap homebrew/cask
+ 
  >brew cask install chromedriver
+ 
  >conda install -c conda-forge selenium
