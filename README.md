@@ -22,3 +22,9 @@ For a mac os which already has anaconda (python3) and homebrew (like mine), just
  $ brew cask install chromedriver
  $ conda install -c conda-forge selenium
 ```
+## 2. pdf2excel.ipynb
+Converts a pdf table to csv format. easy for reading in ms excel or pandas. 
+yo can do this easily to on google colab. Just install tabula-py using the following command in your colab notebook.
+
+
+`!pip install -q tabula-py`
