@@ -34,3 +34,5 @@ yo can do this easily to on google colab. Just install tabula-py using the follo
 For GO enrichment provided a list of genes. Uses STRINGdb API. Run this in google colab.
 requires 'requests' package.
 
+enrichment categories: 'Molecular Function', 'PMID','Component','Process','KEGG','Interpro'
+
