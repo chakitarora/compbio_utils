@@ -28,3 +28,9 @@ yo can do this easily to on google colab. Just install tabula-py using the follo
 
 
 `!pip install -q tabula-py`
+
+## 3. GO_analysis.ipynb
+
+For GO enrichment provided a list of genes. Uses STRINGdb API. Run this in google colab.
+requires 'requests' package.
+
