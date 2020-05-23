@@ -36,3 +36,8 @@ requires 'requests' package.
 
 enrichment categories: 'Molecular Function', 'PMID','Component','Process','KEGG','Interpro'
 
+
+## 4. merge_multiple_csv.ipynb
+
+merges all the csv files in a given folder into a single csv file. can be modified as per requirement.
+
